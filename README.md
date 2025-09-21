@@ -1,4 +1,4 @@
-##Project: Autonomous Delivery Agent
+*Project: Autonomous Delivery Agent*
 
 
 This project implements an autonomous delivery agent that navigates a 2D grid environment using various search algorithms.
